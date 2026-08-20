@@ -4,15 +4,15 @@ Tags: blog, block-styles, e-commerce, grid-layout, one-column, two-columns, thre
 Requires at least: 6.1
 Tested up to: 6.1
 Requires PHP: 7.0
-Stable tag: 1.1.0
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WooCommerce WordPress block theme.
+Flexible WooCommerce WordPress block theme designed with a minimalistic, modern aesthetic and suitable for a wide range of products.
 
 == Description ==
 
-WooCommerce WordPress block theme.
+Mugistore is a flexible and easy to customize WooCommerce block theme designed with a minimalistic, modern aesthetic, perfect for showcasing a wide range of products like tea, coffee, gourmet snacks, cosmetics or fashion.
 
 You can find more information and helpful resources about Mugistore on https://ainoblocks.io.
 
@@ -76,6 +76,14 @@ License: GPLv3 or later, https://www.gnu.org/licenses/gpl-3.0.html
 Source: https://github.com/richtabor/MerlinWP
 
 == Changelog ==
+
+= 1.1.1 =
+* Released: December 20, 2022
+
+* Enhance: Support for Cart and Checkout shortcodes.
+* Enhance: Onboarding.
+* Bugfix: Pagination.
+* Bugfix: Store messages.
 
 = 1.1.0 =
 * Released: December 14, 2022
