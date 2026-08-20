@@ -45,7 +45,7 @@
 					"name": "24px"
 				},
 				{
-					"size": "cclamp(1rem, 0.5965rem + 1.7544vw, 2rem)",
+					"size": "clamp(1rem, 0.5965rem + 1.7544vw, 2rem)",
 					"slug": "7",
 					"name": "32px"
 				},
@@ -342,6 +342,16 @@
 					"slug": "variant-rating-stars",
 					"color": "#FFFFFF",
 					"name": "Variant Rating Stars"
+				},
+				{
+					"color": "#000000",
+					"name": "Dark",
+					"slug": "dark"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Light",
+					"slug": "light"
 				}
 			],
 			"gradients": [{
@@ -787,11 +797,11 @@
 	],
 	"templateParts": [
 		{
-			"name": "header-shop",
+			"name": "header",
 			"area": "header"
 		},
 		{
-			"name": "footer-shop",
+			"name": "footer",
 			"area": "footer"
 		},
 		{

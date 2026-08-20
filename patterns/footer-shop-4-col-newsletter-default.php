@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Shop Footer (default)
- * Slug: theme/footer-shop-default
+ * Title: Shop Footer 4 Columns with Mailchimp Newsletter (default)
+ * Slug: theme/footer-shop-4-col-mailchimp-newsletter-default
  * Categories: footers
  * Block Types: core/template-part/footer
  */
